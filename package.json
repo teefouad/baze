@@ -1,0 +1,30 @@
+{
+  "name": "baze",
+  "version": "1.0.0",
+  "description": "Generator for HTML5 web apps.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/teefouad/baze.git"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "html5",
+    "generator",
+    "css3",
+    "simple",
+    "javascript",
+    "browserSync"
+  ],
+  "author": "Mostafa <tee.fouad@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teefouad/baze/issues"
+  },
+  "homepage": "https://github.com/teefouad/baze#readme"
+}
